@@ -80,10 +80,6 @@ A serverless and distributed architecture is implemented:
 
 ---
 
-## Contribution
-Contributions are welcome! Please submit issues or pull requests via the [GitHub repository](#).
+## Project Documentation  
+For detailed architecture diagrams, configurations, and additional notes, refer to the "Route53 Project Documentation.docx" 
 
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
